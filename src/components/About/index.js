@@ -37,7 +37,7 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p>I'm a Software Engineer with 1 year+ of experience building web-based applications, 
+          <p>I'm a Software Engineer with 2 year+ of experience building web-based applications, 
 and tools for finance and security. I hold a First Class (Honors) Bachelor’s Degree in 
 Computer Science and a Distinction National Diploma’s Degree in Data Processing . I
 have spent the last six months working with HTML, CSS, Javascript, Phython, Java, Springboot,

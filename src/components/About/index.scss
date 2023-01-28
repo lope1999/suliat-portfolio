@@ -107,26 +107,29 @@
     .stage-cube-cont {
         width: 50%;
         height: 100%;
-        padding-right: 200px;
+        // padding-right: 200px;
+        margin: 100px;
         position: absolute;
-        overflow: hidden;
-        top: 380px;
+        overflow: inherit;
+        // top: 500px;
       }
       
       .title {
-        color:#ee82c7;
+        color:transparent;
         font-size: 20px;
-        padding-top: 40px;
-        // display: flex;
+        padding: inherit;
+        // padding-top: 40px;
+        // padding-left: -20px;
       }
    
       .stage-cube-cont2 {
         width: 50%;
         height: 100%;
-        margin-left: 300px;
+        // margin-left: 300px;
         position: absolute;
-        overflow: hidden;
-        top: 1000px;
+        overflow: inherit;
+        // top: 1000px;
+        margin: 100px;
         right: 200px;
         }
       
