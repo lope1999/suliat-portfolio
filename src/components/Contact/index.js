@@ -85,20 +85,19 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          SULIAT TITILOPE ALAGA,
+          SULIAT TITILOPE ALAGA
           <br />
           NIGERIA,
           <br />
-          6, Adebisi-Tolani, Medina Estate <br />
-          Gbagada, Lagos State <br />
+          Gbagada, Lagos
           <br />
           <span>alagasuliattitilope@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[6.5540407,3.3815538]} zoom={13}>
+          <MapContainer center={[6.5593181,3.384061]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[6.5540407,3.3815538]}>
-              <Popup>Suliat lives here, come over and let's make some money :)</Popup>
+            <Marker position={[6.5593181,3.384061]}>
+              <Popup>Suliat lives in this city :)</Popup>
             </Marker>
           </MapContainer>
         </div>
