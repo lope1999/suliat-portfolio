@@ -38,23 +38,21 @@ const About = () => {
             />
           </h1>
           <p>I'm a Software Engineer with years of experience building web-based applications, 
-and tools for finance and security. I hold a First Class (Honors) Bachelor’s Degree in 
+and tools for finance and security. I hold a First Class (Honours) Bachelor’s Degree in 
 Computer Science and a Distinction National Diploma’s Degree in Data Processing . I with HTML, CSS, Javascript, Phython, Java, Springboot,
 MySql, Git, Nestjs and React.js.</p>
           <p>
-            I'm a very ambitious full-stack developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          I am a skilled full-stack developer and open to opportunities that would enable me work on diverse projects and support the vision of the company to deliver exceptional service without compromising standards. 
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
+            I'm confident, naturally curious, and perpetually working on
             improving my chops one design problem at a time.
           </p>
-          <p>
+          {/* <p>
             If I need to define myself in one sentence that would be a zealous
             lady, a fashion fanatic,
             food lover, and tech-obsessed!!!
-          </p>
+          </p> */}
         </div>
 
         <div className="stage-cube-cont">
