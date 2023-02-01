@@ -39,8 +39,9 @@ const About = () => {
           </h1>
           <p>I'm a Software Engineer with years of experience building web-based applications, 
 and tools for finance and security. I hold a First Class (Honours) Bachelor’s Degree in 
-Computer Science and a Distinction National Diploma’s Degree in Data Processing . I with HTML, CSS, Javascript, Phython, Java, Springboot,
-MySql, Git, Nestjs and React.js.</p>
+Computer Science and a Distinction National Diploma’s Degree in Data Processing . 
+Additionally, I am proficient in HTML, CSS, JavaScript, Material UI, and Reactjs for frontend development,
+ and have experience with Java(Springboot Framework) and Nestjs for backend development .</p>
           <p>
           I am a skilled full-stack developer and open to opportunities that would enable me work on diverse projects and support the vision of the company to deliver exceptional service without compromising standards. 
           </p>
@@ -56,7 +57,7 @@ MySql, Git, Nestjs and React.js.</p>
         </div>
 
         <div className="stage-cube-cont">
-        <div className='title'>Front-end Developer </div>
+        <div className='title'>Front-end Technologies </div>
           <div className="cubespinner">
           <div className="face1">
               <FontAwesomeIcon icon={faCode} color="#DD0031" />
@@ -79,7 +80,7 @@ MySql, Git, Nestjs and React.js.</p>
           </div>
         </div>
         <div className="stage-cube-cont2">
-        <div className='title'>Back-end Developer </div>
+        <div className='title'>Back-end Technologies</div>
         <div className="cubespinner">
             <div className="face1">
               <FontAwesomeIcon icon={faJava} color="#DD0031" />
